@@ -1,6 +1,7 @@
 # Brief description
 
 Simple visualizer-app of graph's algorithms
+
 There are three types of algorithms: dijkstra's, breadth search, depth search.  
 
 ## Available Scripts
