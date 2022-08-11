@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Brief description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple visualizer-app of graph's algorithms
+There are three types of algorithms: dijkstra's, breadth search, depth search.  
 
 ## Available Scripts
 
