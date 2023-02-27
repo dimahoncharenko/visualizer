@@ -1,6 +1,7 @@
 {
   "name": "pathfinder",
   "version": "0.1.0",
+  "main": "index.js",
   "private": true,
   "dependencies": {
     "@emotion/styled": "^11.9.3",
